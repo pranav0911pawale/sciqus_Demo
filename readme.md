@@ -18,4 +18,3 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 3. **Projects** - Complete project portfolio with filtering
 4. **Contact** - Contact form and information
 
-## File Structure
