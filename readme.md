@@ -1,4 +1,4 @@
-# Gauri Pandhare - Portfolio Website
+#Pranav Pavale - Portfolio Website
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 
