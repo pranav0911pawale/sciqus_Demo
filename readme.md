@@ -11,7 +11,7 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 - Contact form with validation
 - Interactive project showcase
 - Clean, readable typography
-- 🚀 Easy to deploy
+- Easy to deploy
 
 1. **Home** - Introduction, skills, featured projects
 2. **About** - Resume, education, experience, achievements
