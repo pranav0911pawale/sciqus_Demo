@@ -18,3 +18,14 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 3. **Projects** - Complete project portfolio with filtering
 4. **Contact** - Contact form and information
 
+## Technologies Used
+HTML5 – Semantic structure
+CSS3 – Flexbox, Grid, responsive design
+JavaScript (ES6) – Interactivity and validation
+
+## Deployment
+This website can be easily deployed using: GitHub Pages Netlify
+
+## Contact
+If you’d like to connect or collaborate, feel free to reach out via the Contact page of the website.
+
